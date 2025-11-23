@@ -9,3 +9,6 @@ jobs:
         run: echo "Hello World!"
       - name: Afficher un message de fin
         run: echo "Done - Bye"
+      - name: Afficher la date courante
+        run: date
+
